@@ -1,6 +1,6 @@
 # Todoist (based on python)
 
-![todoist-demo](resources/todoist-demo.png)
+![todoist-demo](/resources/todoist-demo.png)
 
 
 ### Description
